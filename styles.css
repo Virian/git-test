@@ -8,11 +8,20 @@ h1 {
   font-size: 50px;
   text-decoration: underline;
   text-transform: uppercase;
+  color: red;
 }
 
 h3 {
   font-size: 22px;
 }
+
+.ingredients {
+  color: olive;
+}
+
+.preparation{
+  color: blue;
+} 
 
 p,
 li {
